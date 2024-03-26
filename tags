@@ -3,6 +3,8 @@
 	<style>
 	/*Heading 1 styles*/
 	h1 {color: blue;}
+	/*Heading 2 styles*/
+	h2 {color: white;}
 	/* Paragraph styles */
 	p {
 	color:blue;
