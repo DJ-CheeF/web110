@@ -13,7 +13,7 @@
 	a {
 	color: red;
 	}
- 	head{
+ 	.head{
    	background-image: url('space.webp');
 	}
 	</style>
