@@ -13,8 +13,9 @@
 	a {
 	color: red;
 	}
-	body {
-  	background-image: url('space.webp');
-	}
+	bg_div {
+    background-image: url('space.webp');
+    color: white;
+}
 	</style>
 </head>
