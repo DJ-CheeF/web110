@@ -2,10 +2,10 @@
 <!-- this is ripped from intro to HTML and tags -->
 	<style>
 	/*Heading 1 styles*/
-	h1 {color: Blue;}
+	h1 {color: blue;}
 	/* Paragraph styles */
 	p {
-	color:Blue;
+	color:blue;
 	font-weight: 1000;
 	text-decoration: overline;
 	}
