@@ -1,5 +1,5 @@
 <head>
-<!-- this is Eamon's intro to HTML and tags -->
+<!-- this is ripped from intro to HTML and tags -->
 	<style>
 	/*Heading 1 styles*/
 	h1 {color: blue;}
@@ -13,5 +13,9 @@
 	a {
 	color: red;
 	}
+	bg_div {
+    background-image: url('space.webp');
+    color: white;
+}
 	</style>
 </head>
