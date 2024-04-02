@@ -3,8 +3,6 @@
 	<style>
 	/*Heading 1 styles*/
 	h1 {color: blue;}
-	/*Heading 2 styles*/
-	h2 {color: white;}
 	/* Paragraph styles */
 	p {
 	color:blue;
@@ -15,8 +13,14 @@
 	a {
 	color: red;
 	}
- 	body{
-   	background-image: url('space.webp');
-	}
+	bg_div {
+    background-image: url('space.webp');
+}
+	.responsive {
+	width: 100%;
+	height: auto;
+}
+}
+
 	</style>
 </head>
