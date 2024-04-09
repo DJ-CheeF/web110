@@ -46,7 +46,7 @@ input:focus {
 	color: green;
 	font-size: 40px;
 }
-.play_btn:hover
+.play_btn:hover {
 	color: orange;
 }
 .player {
