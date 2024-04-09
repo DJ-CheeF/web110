@@ -42,6 +42,16 @@ button:focus {
 input:focus {
     border: 3px solid blue;
 }
-
+.play_btn {
+	color: green;
+	font-size: 40px;
+}
+.play_btn:hover
+	color: orange;
+}
+.player {
+	min-height: 200px;
+	min-width: 400px;
+}
 	</style>
 </head>
