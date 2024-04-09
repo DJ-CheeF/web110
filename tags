@@ -30,6 +30,14 @@ input:focus {
     color: blue;
 }
 
+a {
+    color: blue;
+}
+
+a:visited {
+    color: purple;
+}
+
 a:hover {
     color: crimson;
 }
