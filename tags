@@ -20,13 +20,6 @@
 	width: 100%;
 	height: auto;
 }
-button:focus {
-    border: 3px solid blue;
-}
-
-input:focus {
-    border: 3px solid blue;
-}
 a {
     color: blue;
 }
@@ -42,5 +35,13 @@ a:hover {
 a:active {
     border: 3px solid crimson;
 }
+button:focus {
+    border: 3px solid blue;
+}
+
+input:focus {
+    border: 3px solid blue;
+}
+
 	</style>
 </head>
