@@ -14,7 +14,7 @@
 	color: red;
 	}
 	bg_div {
-    background-image: url('space.webp');
+    background-image: url("space.webp");
 }
 	.responsive {
 	width: 100%;
