@@ -26,10 +26,7 @@ button:focus {
 
 input:focus {
     border: 3px solid blue;
-}a {
-    color: blue;
 }
-
 a {
     color: blue;
 }
@@ -45,6 +42,5 @@ a:hover {
 a:active {
     border: 3px solid crimson;
 }
-
 	</style>
 </head>
