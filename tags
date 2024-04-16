@@ -2,7 +2,7 @@
 	
 	
 	h1 {color: blue;}
-	
+	h2 {color: white;}
 	p {
 	color:blue;
 	font-weight: 1000;
@@ -53,5 +53,4 @@ input:focus {
 	min-heigt: 300px;
 	min-width: 200px;
 	background-color: #DDDDDDDD;
-	text-align: center;
 }
