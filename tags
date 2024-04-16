@@ -1,15 +1,14 @@
-
 <!-- this is ripped from intro to HTML and tags -->
-	<style>
-	/*Heading 1 styles*/
+	
+	
 	h1 {color: blue;}
-	/* Paragraph styles */
+	
 	p {
 	color:blue;
 	font-weight: 1000;
 	text-decoration: overline;
 	}
-	/*Anchor Styles*/
+	
 	a {
 	color: red;
 	}
@@ -43,11 +42,12 @@ input:focus {
     border: 3px solid blue;
 }
 .play_btn {
-	color: green;
+	 color: black;
+    transition: color 2s ease-out;
 	font-size: 40px;
 }
 .play_btn:hover {
-	color: orange;
+	color: red;
 }
 .player {
 	min-height: 200px;
