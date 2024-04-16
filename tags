@@ -12,8 +12,8 @@
 	a {
 	color: red;
 	}
-	bg_div {
-    background-image: url("space.jpg");
+	body {
+ background-image: url("space.jpg");
 }
 	.responsive {
 	width: 100%;
@@ -50,8 +50,6 @@ input:focus {
 	color: red;
 }
 .player {
-	margin-left: auto;
-	margin-right: auto;
 	min-heigt: 300px;
 	min-width: 200px;
 	background-color: #DDDDDDDD;
