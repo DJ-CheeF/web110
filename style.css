@@ -1,14 +1,14 @@
 <!-- this is ripped from intro to HTML and tags -->
-	<style>
-	/*Heading 1 styles*/
+	
+	
 	h1 {color: blue;}
-	/* Paragraph styles */
+	
 	p {
 	color:blue;
 	font-weight: 1000;
 	text-decoration: overline;
 	}
-	/*Anchor Styles*/
+	
 	a {
 	color: red;
 	}
