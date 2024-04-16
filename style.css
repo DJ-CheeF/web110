@@ -54,3 +54,27 @@ input:focus {
 	min-width: 200px;
 	background-color: #DDDDDDDD;
 }
+@keyframes bounce {
+    0% {
+        top: 0px;
+        width: 100px;
+        height: 100px;
+    }
+    90% {
+        width: 100px;
+        height: 100px;
+    }
+    100% {
+        width: 100px;
+        height: 80px;
+        top: 100px;
+    }
+}
+
+.circle {
+    position: relative;
+    border: 5px solid black;
+    border-radius: 50%;
+    background-color: crimson;
+    animation: bounce 1s ease-in alternate infinite;
+}
